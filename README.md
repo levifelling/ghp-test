@@ -2,6 +2,8 @@
 
 https://levifelling.github.io/ghp-test/
 
+https://levifelling.github.io/ghp-test/ 
+
 User normal git workflow to commit changes on master. The `~/public` dir is linked to the gh-pages branch using `git subtree`. Details further down on how this was setup, but for normal development you don't need to worry about this.
 
 ## deploy to gh-pages
