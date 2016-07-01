@@ -13,6 +13,7 @@ rm -rf .
 touch index.html
 git add -A
 git commit -a
+git push -u origin gh-pages:gh-pages
 
 git checkout master 
 _
